@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.exe
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.deps.json
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.runtimeconfig.json
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.dll
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\bin\Debug\netcoreapp3.1\RefVSOut.pdb
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.AssemblyInfo.cs
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.dll
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.pdb
+C:\Users\opilane\source\repos\RefVSOut\RefVSOut\obj\Debug\netcoreapp3.1\RefVSOut.genruntimeconfig.cache
